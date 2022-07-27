@@ -47,4 +47,3 @@ function onGalleryClick(evt) {
     }
   }
 }
-console.dir(basicLightbox);
